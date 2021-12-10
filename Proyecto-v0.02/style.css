@@ -1,0 +1,157 @@
+div#cabeza{
+	background-color: green;
+	width: auto;
+  	height: auto;
+  	margin: auto;
+}
+
+div#contenedor{
+	background-color: brown;
+	width: auto;
+	height: auto;
+	margin: auto;
+}
+
+div#contenedor2{
+	background-color: #77CCD1;
+	width: auto;
+	height: auto;
+	margin: auto;
+}
+
+div#pie1{
+	background-color: grey;
+	width: auto;
+	height: auto;
+	margin: auto;
+}
+
+div#hora{
+	background-color: yellow;
+	width: auto;
+	height: auto;
+	margin: auto;
+}
+
+img#fondo{
+	width: 800px;
+  	height: 500px;
+  	margin: 0px 0px 5px 950px
+}
+
+h2#parrafo{
+	width: 200px;
+	height: 200px;
+	margin: -500px 0px 5px 600px;
+}
+
+p#texto{
+	width: 300px;
+	height: 200px;
+	margin: -150px 0px 5px 600px;
+}
+
+h2#parrafo1{
+	width: 250px;
+	height: 200px;
+	margin: 0px 0px 5px 600px;
+}
+
+p#texto1{
+	width: 300px;
+	height: 200px;
+	margin: -100px 0px 5px 600px;
+}
+
+img#taco{
+	width: 500px;
+  	height: 300px;
+  	margin: 50px 0px 5px 650px;
+}
+
+img#taco1{
+	width: 600px;
+  	height: 300px;
+  	margin: -150px 0px 5px 600px;
+}
+
+img#bebida{
+	float: center;
+	width: 500px;
+  	height: 300px;
+  	margin: 0px 0px 5px 250px;
+}
+
+img#bebida1{
+	float: center;
+	width: 500px;
+  	height: 300px;
+  	margin: 0px 0px 5px 1050px;
+}
+
+h2#tltaco{
+	width: 200px;
+	height: 200px;
+	margin: 0px 0px 5px 800px;
+}
+
+h2#tltaco1{
+	width: 200px;
+	height: 200px;
+	margin: 100px 0px 5px 850px;
+}
+
+h2#tlbebida{
+	width: 200px;
+	height: 200px;
+	margin: 0px 0px 5px 800px;
+}
+
+h2#tlbebida1{
+	width: 200px;
+	height: 200px;
+	margin: 100px 0px 5px 850px;
+}
+
+
+p#txtaco{
+	width: 500px;
+	height: 200px;
+	margin: -150px 0px 5px 650px;
+}
+
+p#txtaco1{
+	width: 500px;
+	height: 200px;
+	margin: -150px 0px 5px 650px;
+}
+
+img#gale{
+	width: 400px;
+	height: 200px;
+	margin: auto;
+}
+
+img#gale1{
+	width: 400px;
+	height: 200px;
+	margin: 0px 0px 5px 200px;
+}
+
+img#gale2{
+	width: 400px;
+	height: 200px;
+	margin: 0px 0px 5px 200px;
+}
+
+img#gale3{
+	width: 400px;
+	height: 200px;
+	margin: 0px 0px 5px 300px;
+}
+
+img#gale4{
+	width: 400px;
+	height: 200px;
+	margin: 0px 0px 5px 200px;
+}
